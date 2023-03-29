@@ -1,6 +1,6 @@
 site_name: 地球反菠萝姐组织
 nav:
-- 首页: README.md
+- 首页: MAIN.md
 theme: 
    name: material
    custom_dir: docs/overrides
@@ -27,7 +27,7 @@ theme:
         - search.share
 site_description: 消灭菠萝暴政，一起反对菠萝！
 site_url: https://Your-Grandfather.github.io/
-site_author: Niaodtiantang
+site_author: 地球反菠萝姐组织
 copyright: ©2021-2023 
 plugins:
     - search:
@@ -52,9 +52,9 @@ extra:
       make our documentation better.
     homepage: https://Your-Grandfather.github.io/
 
-repo_url: https://github.com/Your-Grandfather/Your-Grandfather.github.io/
-repo_name: Your-Grandfather/Your-Grandfather.github.io
-edit_uri: https://github.com/Your-Grandfather/Your-Grandfather.github.io/edit/main/docs/
+# repo_url: https://github.com/Your-Grandfather/Your-Grandfather.github.io/
+# repo_name: Your-Grandfather/Your-Grandfather.github.io
+# edit_uri: https://github.com/Your-Grandfather/Your-Grandfather.github.io/edit/main/docs/
 
 markdown_extensions:
     - pymdownx.highlight:
